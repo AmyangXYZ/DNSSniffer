@@ -2,4 +2,4 @@
 
 ## Usage
 
-![s](https://github.com/AmyangXYZ/DNSSniffer/img/example.png)
+![example](https://github.com/AmyangXYZ/DNSSniffer/blob/master/img/example.png)
