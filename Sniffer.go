@@ -143,7 +143,6 @@ func (msg *DNSMsg) UnPack(buf []byte) *DNSMsg {
 
 		msg.Questions[j] = question
 	}
-	fmt.Println(msg.Questions[0].Qtype)
 
 	return msg
 }
